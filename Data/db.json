@@ -12770,8 +12770,8 @@
         }
     },
     "courses": {
-        "python": { "pythonforbeginners" :
-            {
+        "python_res": {
+            "pythonforbeginners": {
                 "id": 1,
                 "header": {
                     "title": "Learn Python: The Complete Python Programming Course",
@@ -15605,6 +15605,6 @@
                 ]
             }
         },
-        "excel": {}
+        "excel_res": {}
     }
 }
