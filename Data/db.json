@@ -12773,6 +12773,7 @@
         "python_res": {
             "pythonforbeginners": {
                 "id": 1,
+                "branches" : ["Development", "Programming Languages", "Python"],
                 "header": {
                     "title": "Learn Python: The Complete Python Programming Course",
                     "intro": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
@@ -12787,8 +12788,8 @@
                         "month": 9,
                         "year": 2015
                     },
-                    "lang": "en",
-                    "subtitles": "en"
+                    "lang": ["English"],
+                    "subtitles": ["English"]
                 },
                 "sidebar": {
                     "sale": true,
