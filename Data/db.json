@@ -15296,6 +15296,7 @@
                     {
                         "id": 0,
                         "name": "Avinash Jain",
+                        "img" : "https://img-b.udemycdn.com/user/200_H/10260436_946b_6.jpg",
                         "intro": "CEO of TheCodex.me - Teaching 500,000+ Students how to code",
                         "rating": 4.4,
                         "revCount": 73806,
@@ -15306,6 +15307,7 @@
                     {
                         "id": 1,
                         "name": "The Codex",
+                        "img" : "https://img-b.udemycdn.com/user/200_H/52310762_220a.jpg",
                         "intro": "Teaching Python through Projects",
                         "rating": 4.4,
                         "revCount": 73806,
